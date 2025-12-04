@@ -1,0 +1,10 @@
+# Playground 目录
+#
+# 这个目录用于存放临时实验代码，不会被提交到 git
+# 你可以在这里快速测试任何想法，无需担心污染代码库
+#
+# 使用方式:
+#   go run playground/hello.go
+#   go run playground/your_test.go
+#
+# 注意: playground/*.go 文件已在 .gitignore 中被忽略
