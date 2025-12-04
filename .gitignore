@@ -45,7 +45,3 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
-
-# Playground (临时测试代码)
-playground/*.go
-!playground/.gitkeep
